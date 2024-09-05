@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "640bd8144d1929b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c71158c4e696a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92efb9deb6730b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_sidebar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfa327167512f914",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a0ce640c25de022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a59d3f035a905b84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e68add7b98c675ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "714b854c9ca16fbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f85a7ae427cb370",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ba01080b4f2449a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "677ec15badc16a08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_sidebar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d9b6888d603dd73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_sidebar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aea4a1e3361c6255",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "833481c3263e9bb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_sidebar.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "92efb9deb6730b4b",
+  "lastOpenFiles": [
+    "5G",
+    "新建文件夹",
+    "初始小区搜索过程.md",
+    "markdown_language.md",
+    "随机接入过程.md",
+    "波束管理过程.md",
+    "images/initial_search/bwp.png",
+    "images/initial_search/initialsearch.png",
+    "images/initial_search/search_process.png",
+    "images/initial_search/pattern.png",
+    "images/initial_search/NR_ARFCN.png",
+    "images/initial_search",
+    "images",
+    "_sidebar.md",
+    "UE上报CSI的过程.md",
+    "README.md"
+  ]
+}
