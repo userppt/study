@@ -26,3 +26,5 @@
 [【一线工程师5G手稿】NR初始小区搜索与同步 (sohu.com)](read://https_www.sohu.com/?url=https%3A%2F%2Fwww.sohu.com%2Fa%2F345995269_467791)
 
 [5G-NR-SSB学习 | CongZ's Blog (czgitaccount.github.io)](https://czgitaccount.github.io/5G_Protocol/5G-NR-SSB%E5%AD%A6%E4%B9%A0/)
+
+[5G NR SSB（SS/PBCH Block）详解-CSDN博客](https://blog.csdn.net/m0_45416816/article/details/96605980)
